@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    background-image: url(bg.jpg);
+    background-size: cover;
+}
+
+canvas {
+    background-color: #fff;
+    border-style: ridge;
+    border-width: 10px;
+    height:600px;
+    width: 1000px;
+}
+h1{
+    font-size: 50px;
+    color: yellow;
+    font-family: 'Courier New', Courier, monospace;
+}
